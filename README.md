@@ -1,6 +1,15 @@
 # Støre
 
-**Støre** is a simple, open-source macOS app for managing all your applications and Homebrew packages. Think of it as an App Store for all the apps and packages that are not on the App Store. It's basically a fancy (non-official) UI around Homebrew. It lets you install, update, and remove apps and formulae with a clean, native interface. This way even people that are not familiar with the terminal can use Homebrew too and have a clean management of their apps
+**Støre** is a simple, open-source macOS app for managing all your applications and packages. Think of it as an App Store for apps and packages that are **not on the Apple App Store**. 
+
+It's essentially a fancy (non-official) UI around Homebrew. It lets you install, update, and remove apps and formulae with a clean, native interface. This way even people that are not familiar with the terminal can use Homebrew too and have a clean management of their apps
+<!--It’s essentially a fancy (non-official) UI around Homebrew, letting you:-->
+<!---->
+<!--- Install, update, and remove apps and formulae  -->
+<!--- Manage your apps with a clean, native interface  -->
+<!--- Use Homebrew even if you’re not familiar with the terminal  -->
+
+With Støre, everyone can have a simple and visually clear way to manage all their macOS apps.
 
 <!--![Støre logo](./assets/logo.png)-->
 
